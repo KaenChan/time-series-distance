@@ -1,0 +1,7 @@
+/tsdistances.egg-info
+/build
+/dist
+/tsdistance.egg-info
+/*.pyc
+/*.o
+/*.so
