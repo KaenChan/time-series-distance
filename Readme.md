@@ -2,9 +2,13 @@ time series distance
 ---------------------
 
 now support
-- dynamic time warping(dtw)
-- multivariable dtw
+- dynamic time warping (DTW)
+- multivariable DTW
 - lb_keogh
+
+todo
+- multivariable lb_keogh
+- edit distance on real (EDR)
 
 
 ## demo
