@@ -7,8 +7,7 @@ now support
 - lb_keogh
 
 
-demo
-====
+## demo
 
 ```
 $ python demo_dtw.py
