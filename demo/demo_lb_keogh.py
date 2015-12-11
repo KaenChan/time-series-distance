@@ -6,9 +6,9 @@ from tsdistance import lb_keogh_c
 from tsdistance import lb_keogh_py
 from time import time
 
-x=np.linspace(0,500,4000)
+x=np.linspace(0,5000,3000)
 ts1=pd.Series(3.1*np.sin(x/1.5)+3.5)
-x=np.linspace(0,500,3000)
+x=np.linspace(0,5000,4000)
 ts2=pd.Series(2.2*np.sin(x/3.5+2.4)+3.2)
 ts3=pd.Series(0.04*x+3.0)
 
