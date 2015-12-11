@@ -23,12 +23,12 @@ dtw_py ts1 vs ts3
 ```
 $ python demo_lb_keogh.py
 dtw_c ts1 vs ts2
-        106.634838282   0.29 s
+        101.577439205   0.30 s
 lb_keogh_c ts1 vs ts2
-        116.810789315   0.05 s
+        28.1342295012   0.05 s
 lb_keogh_c ts1 vs ts3
-        617.903592381   0.05 s
+        4697.5134284    0.05 s
 lb_keogh_py ts1 vs ts3
-        617.906559519   0.80 s
+        4697.51370379   0.79 s
 ```
 
